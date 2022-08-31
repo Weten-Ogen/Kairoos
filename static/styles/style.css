@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+body{
+  margin: 0;
+  padding:0;
+}
+/* topgraphy */
+/* >>>> */
+ /* nav bar  */
+ nav .navbar{
+  display:flex;
+  background-color: rgb(172, 166, 166);
+  list-style-type: none;
+ }
+ nav .navbar  li .logo{
+  font-size: 1.5rem;
+  text-decoration:none;
+  
+
+ }
+
+ nav .navbar li .nav-item{
+  margin: 5px;
+  font-size: 1.5rem;
+  text-decoration:none;
+  color: rgb(19, 17, 17);
+  
+ }
+/* >>>> */
